@@ -1,8 +1,6 @@
-﻿using System.Xml;
+﻿namespace Adapter;
 
-namespace Adapter;
-
-internal class Program
+public class Program
 {
     static void Main(string[] args)
     {

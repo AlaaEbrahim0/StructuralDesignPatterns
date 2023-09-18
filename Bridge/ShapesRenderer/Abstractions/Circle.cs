@@ -1,4 +1,6 @@
-﻿namespace Bridge;
+﻿using Bridge.ShapesRenderer.Implementors;
+
+namespace Bridge.ShapesRenderer.Abstractions;
 
 public class Circle : Shape
 {

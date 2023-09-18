@@ -1,6 +1,6 @@
-﻿using Bridge.Implementors;
+﻿using Bridge.ShapesRenderer.Implementors;
 
-namespace Bridge.Abstractions;
+namespace Bridge.ShapesRenderer.Abstractions;
 
 public class Square : Shape
 {

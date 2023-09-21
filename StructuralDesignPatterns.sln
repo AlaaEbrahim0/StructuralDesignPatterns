@@ -7,9 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{397095E2-045C-41A8-850F-6FC5EC9B817B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{661DE33F-218C-4435-ACF9-3E31AC08C060}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{27BE0D78-586B-4456-9423-A549F61519B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{27BE0D78-586B-4456-9423-A549F61519B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +23,6 @@ Global
 		{397095E2-045C-41A8-850F-6FC5EC9B817B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{397095E2-045C-41A8-850F-6FC5EC9B817B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{397095E2-045C-41A8-850F-6FC5EC9B817B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{661DE33F-218C-4435-ACF9-3E31AC08C060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{661DE33F-218C-4435-ACF9-3E31AC08C060}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{661DE33F-218C-4435-ACF9-3E31AC08C060}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{661DE33F-218C-4435-ACF9-3E31AC08C060}.Release|Any CPU.Build.0 = Release|Any CPU
 		{27BE0D78-586B-4456-9423-A549F61519B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{27BE0D78-586B-4456-9423-A549F61519B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27BE0D78-586B-4456-9423-A549F61519B7}.Release|Any CPU.ActiveCfg = Release|Any CPU

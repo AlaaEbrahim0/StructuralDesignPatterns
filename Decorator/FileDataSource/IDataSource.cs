@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Decorator.Components;
+namespace Decorator.FileDataSource;
 public interface IDataSource
 {
     void WriteData(byte[] data);
